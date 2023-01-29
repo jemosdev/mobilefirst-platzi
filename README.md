@@ -12,12 +12,12 @@ This project is a Figma design transform to frontend code using the mobile first
 ### **Views:**
 
 #### -part one:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard01.jpg)
+![](https://github.com/jemosdev/mobilefirst-platzi/blob/main/assets/Clipboard01.jpg)
 
 #### -part two:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard02.jpg)
+![](https://github.com/jemosdev/mobilefirst-platzi/blob/main/assets/Clipboard02.jpg)
 
 #### -part three:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard03.jpg)
+![](https://github.com/jemosdev/mobilefirst-platzi/blob/main/assets/Clipboard03.jpg)
 
 ### Author: jemosdev
