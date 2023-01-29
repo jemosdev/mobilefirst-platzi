@@ -1,0 +1,17 @@
+.main_tables-currency .main_table--title, .main_tables-currency p {
+    text-align: center;
+}
+.main_tables-container {
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+.product_cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans_container--slide {
+    justify-content: center;
+}
