@@ -1,23 +1,23 @@
 ## MobileFirst | Platzi
 This project is part of the Roadmap "Frontend Architecture" from platzi.
 
-###**Description:**
+### **Description:**
 This project is a Figma design transform to frontend code using the mobile first methodology.
 
-###**Requirements:**
+### **Requirements:**
 - HTML
 - CSS
 - Figma
 
-###**Views:**
+### **Views:**
 
-####-part one:
+#### -part one:
 ![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard01.jpg)
 
-####-part two:
+#### -part two:
 ![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard02.jpg)
 
-####-part three:
+#### -part three:
 ![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard03.jpg)
 
-###Author: jemosdev
+### Author: jemosdev
